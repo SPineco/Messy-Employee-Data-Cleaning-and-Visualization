@@ -42,7 +42,9 @@ For additional visualization, the work was shifted over to Tableau. Within Table
 
 <img width="1524" height="746" alt="image" src="https://github.com/user-attachments/assets/07aea559-1617-498e-bd2f-d4d8eeca5622" />
 
+For further information in regards to the cleaning process, please look at the Messy Employee Dataset Cleaning.ipnyb File: https://github.com/SPineco/Messy-Employee-Data-Cleaning-and-Visualization/tree/main
 
+For further information on the Tableau visualizations, please look at the Messy_Employee_Tableau.twbx file: https://github.com/SPineco/Messy-Employee-Data-Cleaning-and-Visualization/tree/main
 
 
 
